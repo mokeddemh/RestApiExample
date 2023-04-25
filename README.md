@@ -10,7 +10,7 @@ To build and run this application, you will need:
 The API has the following endpoints:
 
 * GET /api/student/ - Get all students
-* GET /api/student/id={id} - Get student by ID
+* GET /api/student/id={ID} - Get student by ID
 * GET /api/student/firstname={firstName} - Get students by FirstName
 * POST /api/student/save - Create a new student
 * PUT /api/student/update - Update an existing student
