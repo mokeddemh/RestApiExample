@@ -21,7 +21,6 @@ public class Student {
     private String firstName;
 
     @Column(name = "last_name")
-    @NonNull
     private String lastName;
 
 
