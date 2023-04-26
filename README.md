@@ -18,4 +18,4 @@ The API has the following endpoints:
 
 ## Integration Tests
 
-To run integration tests with H2 Database, just run: <i><b>mvn test</b></i>.
+To execute integration tests with H2 Database, just run: <i>mvn test</i>.
